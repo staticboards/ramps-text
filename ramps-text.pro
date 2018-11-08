@@ -1,4 +1,4 @@
-update=Fri 26 Oct 2018 10:38:00 AM CEST
+update=08/11/2018 13:49:47
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,10 +58,10 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=Z:/staticboards/altium/kicad/lib/staticboards
+LibName30=S:/kicad/lib/staticboards/staticboards
 [schematic_editor]
 version=1
-PageLayoutDescrFile=/home/user/src/kicad/pagelayout_default.kicad_wks
+PageLayoutDescrFile=S:/kicad/templates/pagelayout_default.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65

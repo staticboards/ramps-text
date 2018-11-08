@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:ramps-text-cache
+LIBS:staticboards
 EELAYER 25 0
 EELAYER END
 $Descr User 8000 5000
